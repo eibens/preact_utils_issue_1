@@ -1,5 +1,8 @@
 # preact_utils Issue 1
 
+> NOTE: This issue has now been fixed with version `v1.0.0-alpha.1` of
+> [preact_utils](https://github.com/eibens/preact_utils).
+
 Run this to bundle the file, start a server, and opening the browser:
 
 ```ts
